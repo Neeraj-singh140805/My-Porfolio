@@ -98,6 +98,7 @@ import { Projects } from "./components/sections/Projects";
 import { Skills } from "./components/sections/Skills";
 import { Experience } from "./components/sections/Experience";
 import { Contact } from "./components/sections/Contact";
+import { Certificates } from "./components/sections/Certificates";
 
 import { Canvas } from "@react-three/fiber";
 import { ThreeBackground } from "./components/ThreeBackground";
@@ -162,6 +163,7 @@ function App() {
           <Skills />
           <Experience />
           <Projects />
+          <Certificates />
           <Contact />
         </main>
       </div>
