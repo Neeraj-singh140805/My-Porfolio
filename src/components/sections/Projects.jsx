@@ -63,7 +63,7 @@ const projects = [
     tech: ["Tableau", "Excel"],
     link: "https://public.tableau.com/app/profile/neeraj.singh1868/viz/Capstone2Dashboard_17769517459070/Dashboard4?publish=yes",
     image: zomatoImg,
-    color: "green"
+    color: "blue"
   },
     {
     title: "Exoplanet Discovery Analysis & Observational Bias Study",
