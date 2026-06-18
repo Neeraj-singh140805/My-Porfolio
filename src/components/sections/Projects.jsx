@@ -2,7 +2,7 @@ import { RevealOnScroll } from "../RevealOnScroll";
 import { TiltCard } from "../TiltCard";
 import { motion } from "framer-motion";
 import { ExternalLink, Github } from "lucide-react";
-import futureWorkImg from "/Users/neerajsingh/Desktop/all folder/portfolio/my-portfolio/src/assets/future-work.png";
+import futureWorkImg from "/Users/neerajsingh/Desktop/all folder/portfolio/my-portfolio/src/assets/future_work.png";
 import netflixImg from "/Users/neerajsingh/Desktop/all folder/portfolio/my-portfolio/src/assets/netflix.png";
 import zomatoImg from "/Users/neerajsingh/Desktop/all folder/portfolio/my-portfolio/src/assets/zomato.png";
 import musicPlayerImg from "/Users/neerajsingh/Desktop/all folder/portfolio/my-portfolio/src/assets/harmonix.png";
