@@ -2,12 +2,12 @@ import { RevealOnScroll } from "../RevealOnScroll";
 import { TiltCard } from "../TiltCard";
 import { motion } from "framer-motion";
 import { ExternalLink, Github } from "lucide-react";
-import futureWorkImg from "/Users/neerajsingh/Desktop/all folder/portfolio/my-portfolio/src/assets/future_work.png";
-import netflixImg from "/Users/neerajsingh/Desktop/all folder/portfolio/my-portfolio/src/assets/netflix.png";
-import zomatoImg from "/Users/neerajsingh/Desktop/all folder/portfolio/my-portfolio/src/assets/zomato.png";
-import musicPlayerImg from "/Users/neerajsingh/Desktop/all folder/portfolio/my-portfolio/src/assets/harmonix.png";
-import fitnessAppImg from "/Users/neerajsingh/Desktop/all folder/portfolio/my-portfolio/src/assets/wellora.png";
-import exoplanetImg from "/Users/neerajsingh/Desktop/all folder/portfolio/my-portfolio/src/assets/exoplanet.png";
+import futureWorkImg from "/src/assets/future_work.png";
+import netflixImg from "/src/assets/netflix.png";
+import zomatoImg from "/src/assets/zomato.png";
+import musicPlayerImg from "/src/assets/harmonix.png";
+import fitnessAppImg from "/src/assets/wellora.png";
+import exoplanetImg from "/src/assets/exoplanet.png";
 
 const projects = [
   {
